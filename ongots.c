@@ -1,3 +1,5 @@
+//zaza bolchhshig bolloo hha unti2 hha
+
 #include <stdio.h>
 #include <stdlib.h>
 // Board-nii hemjee 10x10
