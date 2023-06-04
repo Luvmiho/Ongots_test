@@ -7,6 +7,7 @@
 // Board-iig coordinattai ni hewleh
 void printBoard(char plane[SIZE][SIZE])
 {
+    // Commit test hello
     int i, j;
     printf("\nBoard: \n  ");
 
