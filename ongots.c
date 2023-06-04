@@ -9,6 +9,7 @@
 // Massive 0-ees eheldeg ba board-iig 1-ees ehluulhiin tuld SIZE=11
 #define SIZE 11
 // comment ustgasan haragdjinu gsh
+// haragdjiinoo ustagtsan bn.
 // Board-iig coordinattai ni hewleh
 void printBoard(char plane[SIZE][SIZE])
 {
