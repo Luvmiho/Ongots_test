@@ -1,8 +1,9 @@
-//zaza bolchhshig bolloo hha unti2 hha
-// noice 
-//haragdjiinoo hha emuugeeree chatlah uu 
-// uu za baragshuu ho haha yu hjin ho
-// one piece iin uzeegui baisan angiudaa nuhuj baigaad hamag anhaaral ened tatatagdaad odoo bol ene iig l hiijin
+// zaza bolchhshig bolloo hha unti2 hha
+//  noice
+// haragdjiinoo hha emuugeeree chatlah uu
+//  uu za baragshuu ho haha yu hjin ho
+//  one piece iin uzeegui baisan angiudaa nuhuj baigaad hamag anhaaral ened tatatagdaad odoo bol ene iig l hiijin
+//  Stand-change test
 #include <stdio.h>
 #include <stdlib.h>
 // Board-nii hemjee 10x10
