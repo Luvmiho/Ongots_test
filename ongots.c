@@ -1,5 +1,5 @@
 //zaza bolchhshig bolloo hha unti2 hha
-
+// noice 
 #include <stdio.h>
 #include <stdlib.h>
 // Board-nii hemjee 10x10
