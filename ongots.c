@@ -1,5 +1,6 @@
 //zaza bolchhshig bolloo hha unti2 hha
 // noice 
+//haragdjiinoo hha emuugeeree chatlah uu 
 #include <stdio.h>
 #include <stdlib.h>
 // Board-nii hemjee 10x10
