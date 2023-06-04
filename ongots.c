@@ -3,7 +3,7 @@
 // Board-nii hemjee 10x10
 // Massive 0-ees eheldeg ba board-iig 1-ees ehluulhiin tuld SIZE=11
 #define SIZE 11
-// comment gesh jjjjaanafbahfbhafhafbafhbfmafknajfnjaefjenbjfbejfbaej
+// comment ustgasan haragdjinu gsh
 // Board-iig coordinattai ni hewleh
 void printBoard(char plane[SIZE][SIZE])
 {
