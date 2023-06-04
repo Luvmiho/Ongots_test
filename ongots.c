@@ -2,6 +2,7 @@
 // noice 
 //haragdjiinoo hha emuugeeree chatlah uu 
 // uu za baragshuu ho haha yu hjin ho
+// one piece iin uzeegui baisan angiudaa nuhuj baigaad hamag anhaaral ened tatatagdaad odoo bol ene iig l hiijin
 #include <stdio.h>
 #include <stdlib.h>
 // Board-nii hemjee 10x10
