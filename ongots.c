@@ -1,21 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
-// Miho test4 hello
-// Miho test2
-// Miho test1
-// Miho test3
-// Miho test last
-// test3
-// guugii test2
 // Board-nii hemjee 10x10
 // Massive 0-ees eheldeg ba board-iig 1-ees ehluulhiin tuld SIZE=11
 #define SIZE 11
 // Board-iig coordinattai ni hewleh
-/*
-Gunee test
-test desu
 void DrawBoard(char data1[][20], char data2[][20]){
-    printf("%40s%106s\n", "PLAYER 1", "PLAYER 2");
+    printf("%40s%106s\n", "PLAYER:");
     for(int i = 0; i < 45; i++){
         if(i > 19 && i < 25) printf("    ");
         else if(i == 0 || i == 25) printf("+---+");
@@ -40,7 +30,6 @@ void DrawBoard(char data1[][20], char data2[][20]){
     }
 
 }
-*/
 void printBoard(char plane[SIZE][SIZE])
 {
     int i, j;
