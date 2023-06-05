@@ -1,21 +1,39 @@
-// zaza bolchhshig bolloo hha unti2 hha
-//  noice
-// haragdjiinoo hha emuugeeree chatlah uu
-//  uu za baragshuu ho haha yu hjin ho
-//  one piece iin uzeegui baisan angiudaa nuhuj baigaad hamag anhaaral ened tatatagdaad odoo bol ene iig l hiijin
-// Stage-change test
-// dahiad test
 #include <stdio.h>
 #include <stdlib.h>
 // Board-nii hemjee 10x10
 // Massive 0-ees eheldeg ba board-iig 1-ees ehluulhiin tuld SIZE=11
 #define SIZE 11
-// comment ustgasan haragdjinu gsh
-// haragdjiinoo ustagtsan bn.
 // Board-iig coordinattai ni hewleh
+/*
+void DrawBoard(char data1[][20], char data2[][20]){
+    printf("%40s%106s\n", "PLAYER 1", "PLAYER 2");
+    for(int i = 0; i < 45; i++){
+        if(i > 19 && i < 25) printf("    ");
+        else if(i == 0 || i == 25) printf("+---+");
+        else printf("---+");
+    }
+    printf("\n");
+    for(int iY = 0; iY < 20; iY++){
+        for(int iX = 0; iX < 45; iX++){
+            if(iX > 19 && iX < 25) printf("    ");
+            else if(iX == 0) printf("| %c |", data1[iY][iX]);
+            else if(iX == 25) printf("| %c |", data2[iY][iX-25]);
+            else if(iX > 0 && iX < 20) printf(" %c |", data1[iY][iX]);
+            else printf(" %c |", data2[iY][iX-25]);
+        }
+        printf("\n");
+        for(int i = 0; i < 45; i++){
+            if(i > 19 && i < 25) printf("    ");
+            else if(i == 0 || i == 25) printf("+---+");
+            else printf("---+");
+        }
+        printf("\n");
+    }
+
+}
+*/
 void printBoard(char plane[SIZE][SIZE])
 {
-    // Commit test hello
     int i, j;
     printf("\nBoard: \n  ");
 
