@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
+// Miho test1
 // test3
 // guugii test2
 // Board-nii hemjee 10x10
