@@ -5,6 +5,7 @@
 #define SIZE 11
 // Board-iig coordinattai ni hewleh
 /*
+Gunee test
 test desu
 void DrawBoard(char data1[][20], char data2[][20]){
     printf("%40s%106s\n", "PLAYER 1", "PLAYER 2");
