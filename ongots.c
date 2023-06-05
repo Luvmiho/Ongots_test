@@ -69,6 +69,7 @@ void duusgah()
 }
 int main()
 {
+    // sok test
     // Tx - tolgoin x tenhleg
     // Ty - tolgoin y tenhleg
     // Bx - biyiin x tenhleg
